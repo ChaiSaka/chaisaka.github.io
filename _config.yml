@@ -1,7 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Chaitan Saka
+title: Chaitan V. Saka
 description: Welcome to my professional website. The purpose of this site serves as both a code repository and an interactive model for many of my projects.
 show_downloads: false
 google_analytics:
